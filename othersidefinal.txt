@@ -1,0 +1,27 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>othersidefinal</TITLE>
+
+</HEAD>
+
+<BODY bgcolor="pink">
+
+<H1 Align="right"> <I> Ordered Lists </I> </H1> 
+<OL Align="right"> 
+<LI Align="right"> <I> List 01 </I> </LI>
+<LI Align="right"> <I> List 02  </I> </LI>
+<LI Align="right"> <I> List 03 </I> </LI>
+</OL> 
+
+<H1 Align="right"> <I> Unordered Lists </I></H1> 
+<OL Align="right"> 
+<LI Align="right"> <I> List 01 <I> </LI>
+<LI Align="right"> <I>List 02 <I> </LI>
+<LI Align="right"> <I>List 03 </I></LI>
+</OL> 
+
+</BODY>
+
+</HTML>
